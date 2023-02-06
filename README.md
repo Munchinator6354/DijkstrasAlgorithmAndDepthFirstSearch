@@ -1,1 +1,1 @@
-# Munchinator6354-DijkstrasAlgorithmAndDepthFirstSearch
+# DijkstrasAlgorithmAndDepthFirstSearch
